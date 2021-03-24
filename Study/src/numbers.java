@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-// °°Àº ¼ıÀÚ´Â Á¦°ÅÇÏ´Â ¹è¿­ ÇÔ¼ö ¸¸µé±â
+//ì´ê±° ì£¼ì„ ê¹¨ì¡Œë‹¤ ..
 
 public class numbers {
 
